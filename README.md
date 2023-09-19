@@ -31,11 +31,14 @@ Coding experience
 I have been taking computer science at GA for two tears now.
 I also took a course in middle school about it.
 I also try and code in my own time sometimes
+
 Reason to take class
 Ever since I took the class in middle school I have always been fascinated by coding
 I also really like the idea of knowing how the devices that I use everyday work
+
 Other interests
 I like spending time with friends, diving, and other sports
+
 Goals for this class
 My main goal for taking computer science in general is to get a better understanding of technology
 My main goal this year is to try and build new skills that I did not have last year to make my projects even better
